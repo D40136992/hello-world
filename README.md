@@ -1,2 +1,3 @@
 # hello-world
-Hello World sample repository
+
+My name is Adam and this is my Hello World repository
